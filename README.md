@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## History of things 
+
+### 1. Electronic Warfare
+
+
 
 You can use the [editor on GitHub](https://github.com/1mehal/history/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -35,3 +39,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+[Steve Blank - Secret History of Silicon Valley](https://www.youtube.com/watch?v=8uA2bLrl_9Q)
+
